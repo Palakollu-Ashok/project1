@@ -1,1 +1,2 @@
-this git
+let var="Hello World"
+console.log(var)
